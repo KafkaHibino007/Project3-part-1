@@ -1,0 +1,48 @@
+*{
+ box-sizing: border-box;
+ margin: 0;
+}
+
+nav{
+    display: flex;
+    height: 75px;
+   box-shadow: 0px 2.98256px 7.4564px rgba(0,0,0,0.1);
+}
+
+nav >img {
+    position: absolute;
+    left: 3%;
+    height: 75px;
+   
+}
+
+section> img {
+    height: 430px;
+    width: 560px;
+   position: absolute;
+   top: 12%;
+   left: 10%;
+}
+
+section > h1{
+    position: absolute;
+    top: 70%;
+    left: 5%;
+    font-size: 50px;
+    font-family: "poppins",sans-serif;
+    
+}
+
+section > h2 {
+    position: absolute;
+    top: 85%;
+    font-family: "poppins", sans-serif;
+    font-size: 35px;
+    font-weight: 200;
+  font-style: normal;
+    left: 5%;
+
+}
+
+card-stats > span {}
+    
